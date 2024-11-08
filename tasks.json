@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "description": "Buy groceries and cook dinner",
-        "status": "todo",
+        "description": "Buy groceries for a delish stew for dinner",
+        "status": "done",
         "createdAt": "2024-11-07T12:59:26.785870",
-        "updatedAt": "2024-11-08T12:26:52.059697"
+        "updatedAt": "2024-11-08T12:34:01.024291"
     },
     {
         "id": 2,
@@ -12,5 +12,12 @@
         "status": "in-progress",
         "createdAt": "2024-11-07T13:16:03.862813",
         "updatedAt": "2024-11-08T11:43:59.078097"
+    },
+    {
+        "id": 3,
+        "description": "Schedule team meeting for Thursday",
+        "status": "todo",
+        "createdAt": "2024-11-08T12:32:50.832034",
+        "updatedAt": "2024-11-08T12:32:50.832034"
     }
 ]
